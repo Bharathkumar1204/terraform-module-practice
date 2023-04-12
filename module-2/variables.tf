@@ -12,7 +12,7 @@ variable "instance_type" {
 
 variable "ssh_keyname" {
   type = string
-  default = "mumbai-key"
+  default = "bharathdevops"
   description = "What is the SSH keyname to use?"
 }
 
